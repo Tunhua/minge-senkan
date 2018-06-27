@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1087de9ac6f218b4ba12e3f61abef90e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet: {fileID: 1131356732870580, guid: 0fbd183226924f848901b3fb191aa8aa, type: 2}
+  - HoudaiPosition: {fileID: 1854694556682518, guid: bd7dbe00cd0e97446bf93fcb1ad19586,
+      type: 2}
+  - muzzle: {fileID: 1583953883303762, guid: bd7dbe00cd0e97446bf93fcb1ad19586, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

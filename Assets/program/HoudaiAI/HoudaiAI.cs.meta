@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0af8616dd2a4214ab5810a6ba3dc893
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HoudaiPosition: {fileID: 1854694556682518, guid: bd7dbe00cd0e97446bf93fcb1ad19586,
+      type: 2}
+  - muzzle: {fileID: 1583953883303762, guid: bd7dbe00cd0e97446bf93fcb1ad19586, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
